@@ -377,11 +377,11 @@ ${msg}
 1. 查看控制台输出，看一下是不是缺少了什么jar包。
 2. 如果jar包存在，显示无法输出，就在IDEA的项目发布中，添加lib依赖！
 
-<img src="D:\Spring-mvc\img\image-20220401163855309.png" alt="image-20220401163855309" style="zoom: 80%;" />
+<img src=".\img\image-20220401163855309.png" alt="image-20220401163855309" style="zoom: 80%;" />
 
-<img src="D:\Spring-mvc\img\image-20220401165858880.png" alt="image-20220401165858880" style="zoom:67%;" /><img src="D:\Spring-mvc\img\image-20220401165949647.png" alt="image-20220401165949647" style="zoom:67%;" />
+<img src=".\img\image-20220401165858880.png" alt="image-20220401165858880" style="zoom:67%;" /><img src="D:\Spring-mvc\img\image-20220401165949647.png" alt="image-20220401165949647" style="zoom:67%;" />
 
-<img src="D:\Spring-mvc\img\image-20220401170010706.png" alt="image-20220401170010706" style="zoom:67%;" />
+<img src=".\img\image-20220401170010706.png" alt="image-20220401170010706" style="zoom:67%;" />
 
 
 
@@ -793,7 +793,7 @@ Restful就是一个资源定位及资源操作的风格。不是标准也不是�
 
 3. 我们来测试请求查看下
 
-   ![图片](D:\Spring-mvc\img\640.png)
+   ![图片](.\img\640.png)
 
 4. 思考：使用路径变量的好处？
 
@@ -836,7 +836,7 @@ Restful就是一个资源定位及资源操作的风格。不是标准也不是�
 
    - 我们使用浏览器地址栏进行访问默认是Get请求，会报错405：
 
-     ![图片](D:\Spring-mvc\img\640-16488643297366.png)
+     ![图片](.\img\640-16488643297366.png)
 
    - 如果将POST修改为GET则正常了；
 
