@@ -70,7 +70,7 @@
 
 建立一个Moudle：springmvc-01-servlet ， 添加Web app的支持！
 
-![image-20220330174613380](D:\Spring-mvc\img\image-20220330174613380.png)
+![image-20220330174613380](.\img\image-20220330174613380.png)
 
 <img src="D:\Spring-mvc\img\image-20220330174701887.png" alt="image-20220330174701887" style="zoom: 50%;" />
 
