@@ -1,0 +1,13 @@
+2022-08-06 12:31:31.001 [main] INFO  c.mitsui.fastgit.service.impl.GitConfigServiceImpl - 获取配置文件路径成功,配置文件路径=D:\Spring-mvc/config.xml
+2022-08-06 12:31:31.001 [main] INFO  c.mitsui.fastgit.service.impl.GitConfigServiceImpl - 获取配置文件路径成功,配置文件路径=D:\Spring-mvc/config.xml
+2022-08-06 12:31:33.087 [main] ERROR com.mitsui.fastgit.ui.MainForm - 未找到配置文件
+com.mitsui.fastgit.exception.ConfigFileNotExistException: 配置文件不存在
+	at com.mitsui.fastgit.service.impl.GitConfigServiceImpl.validateConfigFile(GitConfigServiceImpl.java:39)
+	at com.mitsui.fastgit.ui.MainForm.validateAndInitConfigFile(MainForm.java:109)
+	at com.mitsui.fastgit.ui.MainForm.init(MainForm.java:93)
+	at com.mitsui.fastgit.ui.MainForm.createForm(MainForm.java:83)
+	at com.mitsui.fastgit.FastgitApplication.main(FastgitApplication.java:8)
+2022-08-06 12:31:33.087 [main] INFO  c.mitsui.fastgit.service.impl.GitConfigServiceImpl - 获取配置文件路径成功,配置文件路径=D:\Spring-mvc/config.xml
+2022-08-06 12:31:33.399 [main] INFO  com.mitsui.fastgit.service.impl.GitServiceImpl - 开始初始化处理分支线程池，线程数量1
+2022-08-06 12:31:33.438 [main] INFO  c.mitsui.fastgit.service.impl.GitConfigServiceImpl - 获取配置文件路径成功,配置文件路径=D:\Spring-mvc/config.xml
+2022-08-06 12:31:33.438 [init project obj] INFO  com.mitsui.fastgit.ui.MainForm - 开始异步初始化项目git对象
